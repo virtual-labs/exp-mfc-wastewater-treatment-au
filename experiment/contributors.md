@@ -1,11 +1,15 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
-### Subject Matter Experts
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+
+### Subject Matter Expert
+| 1. | Dr. Ajith Madhavan | ajithm@am.amrita.edu | Amrita Vishwa Vidyapeetham | 
+| :---: | :---: | :---: |  :---: |
+
 
 ### Developers
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+
+<b> 1.| <b> Bhavya O | <b> bhavyao@am.amrita.edu | <b> Amrita Vishwa Vidyapeetham
+:--|:--|:--|:--|
+<b> 2. | <b> Nijin Nizar | <b> nijinn@am.amrita.edu | <b> Amrita Vishwa Vidyapeetham
+<b> 3. | <b> Dhanush Kumar | <b> dhanushkumar@am.amrita.edu | <b> Amrita Vishwa Vidyapeetham
+
+
+
