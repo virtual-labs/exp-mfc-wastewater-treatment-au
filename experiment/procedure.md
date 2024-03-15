@@ -4,39 +4,32 @@
 
    <img src="images/2.png" title="" />
 
+&nbsp;
+
+2) In the simulator, the anolyte is wastewater. Once the user selects the wastewater, another parameter will show for sewage strength (BOD) selection. Users can provide the BOD concentration from a range of 10-100mg/l.
+
+   <img src="images/3.png" title="" />
+   <img src="images/4.png" title="" />
+
+&nbsp;
+
+
+3) The GUI has two options for PEM selection: Nutrient agar with Bacillus Subtilis and Nafion. Users can select their choice of parameter.
+
+  <img src="images/5.png" title="" />
+
+&nbsp;
 
 
 
+4) The GUI has two options for Catholyte selection: KMnO4 and water. Users can select their choice of parameter. Once the user selects their preferred catholyte, the electrode selection (Anode and Cathode) tab will pop up. GUI provides anode materials such as Aluminium, manganese, Graphite, and stainless steel. Similarly, cathode materials as copper and graphite.
 
+  <img src="images/6.png" title="" />
+  <img src="images/7.png" title="" />
 
+&nbsp;
 
-2.	In the simulator, the anolyte is wastewater. Once the user selects the wastewater, another parameter will show for sewage strength (BOD) selection. Users can provide the BOD concentration from a range of 10-100mg/l.
-
-
-3.	The GUI has two options for PEM selection: Nutrient agar with Bacillus Subtilis and Nafion. Users can select their choice of parameter.
-
-
-
-
-
-
-
-
-4.	The GUI has two options for Catholyte selection: KMnO4 and water. Users can select their choice of parameter. Once the user selects their preferred catholyte, the electrode selection (Anode and Cathode) tab will pop up. GUI provides anode materials such as Aluminium, manganese, Graphite, and stainless steel. Similarly, cathode materials as copper and graphite.
-
-
-
-
-
-
-
-
-
-
-
-
-
-5 In the simulator, the user can adjust the sewage treatment time in MFC from a range of 24Hrs to 72 Hrs by clicking on the Time tab.
+5) In the simulator, the user can adjust the sewage treatment time in MFC from a range of 24Hrs to 72 Hrs by clicking on the Time tab.
 
 
 
