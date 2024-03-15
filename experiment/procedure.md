@@ -9,7 +9,7 @@
 2) In the simulator, the anolyte is wastewater. Once the user selects the wastewater, another parameter will show for sewage strength (BOD) selection. Users can provide the BOD concentration from a range of 10-100mg/l.
 
   <img src="images/3.png" title="" />
-  
+  &nbsp;
   <img src="images/4.png" title="" />
 
 &nbsp;
@@ -26,9 +26,9 @@
 4) The GUI has two options for Catholyte selection: KMnO4 and water. Users can select their choice of parameter. Once the user selects their preferred catholyte, the electrode selection (Anode and Cathode) tab will pop up. GUI provides anode materials such as Aluminium, manganese, Graphite, and stainless steel. Similarly, cathode materials as copper and graphite.
 
   <img src="images/6.png" title="" />
-  
+  &nbsp;
   <img src="images/7.png" title="" />
-
+  &nbsp;
   <img src="images/8.png" title="" />
 
 &nbsp;
@@ -47,15 +47,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Note: In the MFC system of wastewater treatment, the bioelectricity production is directly proportional to the strength of wastewater or BOD, carbon-based electrode material, and the duration of treatment of the sewage. So, an increased value of electricity production is observed in the simulator by changing the above-mentioned parametric values.
+*Note: In the MFC system of wastewater treatment, the bioelectricity production is directly proportional to the strength of wastewater or BOD, carbon-based electrode material, and the duration of treatment of the sewage. So, an increased value of electricity production is observed in the simulator by changing the above-mentioned parametric values*
