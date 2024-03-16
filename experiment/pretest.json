@@ -2,38 +2,60 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+     
+        "question": "This is a Sample Question 1?",
+        "answers": {
+          "a": "answer1",
+          "b": "answer2",
+          "c": "answer3",
+          "d": "answer4"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+  
+      {
+        "question": "This is a Sample Question 1?",
+        "answers": {
+          "a": "answer1",
+          "b": "answer2",
+          "c": "answer3",
+          "d": "answer4"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+  
+  
+      {
+        "question": "This is a Sample Question 1?",
+        "answers": {
+          "a": "answer1",
+          "b": "answer2",
+          "c": "answer3",
+          "d": "answer4"
+        },
+        
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+  
+  
+  
+      {
+        "question": "This is a Sample Question 2?",
+        "answers": {
+          "a": "answer1",
+          "b": "answer2",
+          "c": "answer3",
+          "d": "answer4"
+        },
+        
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
