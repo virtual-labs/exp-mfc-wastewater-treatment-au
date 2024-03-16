@@ -44,15 +44,15 @@
 
 
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4) What is the combination of anode and cathode with Nafion as PEM produces maximum electricity (7.4565 V) in a voltmeter ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Aluminium-Copper",
+        "b": "Alumininum -Graphite",
+        "c": "Graphite-copper",
+        "d": "Graphite-Graphite"
       },
       
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
