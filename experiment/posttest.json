@@ -15,29 +15,29 @@
     },
 
     {
-      "question": "This is a Sample Question 1?",
+      "question": "2) Factors influencing the efficiency of a MFC in wastewater are:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Biological Oxygen Demand (BOD)",
+        "b": "Electrode Material",
+        "c": "PH and Time",
+        "d": "All the above"
       },
       
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
 
     {
-      "question": "This is a Sample Question 1?",
+      "question": "3) Which material is used as a cathode in the MFC in the wastewater treatment simulator ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Stainless Steel",
+        "b": "Aluminium",
+        "c": "Graphite",
+        "d": "Manganese"
       },
       
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
 
